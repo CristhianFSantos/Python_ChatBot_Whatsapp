@@ -1,5 +1,5 @@
 <h1 align ="center">
-<img src="https://raw.githubusercontent.com/CristhianFSantos/Python_ChatBot_Whatsapp/master/logo.png" alt="Template" height="70">
+<img src="https://raw.githubusercontent.com/CristhianFSantos/Python_ChatBot_Whatsapp/master/logo.png" alt="Template" height="150">
 <br>
 
 ## 📖 Sobre o projeto
